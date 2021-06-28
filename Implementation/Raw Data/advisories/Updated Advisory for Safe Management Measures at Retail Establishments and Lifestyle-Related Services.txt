@@ -1,0 +1,525 @@
+ 
+J OINT ADVISORY
+Page 1 of 16
+MR No.: 031/21
+Updated Advisory for Safe Management Measures at Retail Establishments and Lifestyle-Related Services
+1. The Multi-Ministry Taskforce (MTF) announced on 14 May 2021 that safe management 
+measures will be further tightened to reduce the risk of COVID-19 community spread, 
+with effect from 16 May through 13 June 2021.
+2. To provide a safe environment for customers and workers, retail establishments and 
+lifestyle-related services currently in operation must implement Safe Management 
+Measures (SMMs), as required by the Ministry of Manpower (MOM) and comply with the 
+COVID-19 (Temporary Measures) (Control Order) Regulations.
+3. In addition, retail establishments and lifestyle-related services are required to comply 
+with the measures set out by Enterprise Singapore (ESG), Housing & Development 
+Board (HDB), Singapore Tourism Board (STB) and Urban Redevelopment Authority 
+(URA) in this document. Establishments required to comply with these measures include
+malls, supermarkets and standalone stores 1
+. The information in this document 
+supersedes that in previous advisories or statements.
+Latest updates for Retail establishments
+4. Retail establishments and lifestyle-related services are to comply with the following from 
+16 May through 13 June 2021:
+4.1. Social gatherings are allowed to comprise up to 2 persons, a reduction from 5
+persons.
+4.2. The occupancy limit for malls and large standalone stores2 will be one 
+person per 16 sqm of Gross Floor Area (GFA), instead of one person per 10
+sqm of GFA (see paragraphs 6 and 7). During this period, retail establishments 
+should cancel all events and promotions that will generate crowding at their 
+physical premises in a manner which is non-compliant with the Safe 
+Management Measures.
+4.3. The operating capacity of Commercial Family Entertainment Centres must 
+be kept to a maximum of one person per 16 sqm of usable space or 25% 
+operating capacity, whichever is lower3
+, instead of one person per 10 sqm of 
+usable space or 50% operating capacity (see Annex C). 
+4.4. “Mask-off” services and activities must cease, with the exception of 
+medical/dental services. Activities which must cease include strenuous indoor 
+1 These refer to stores that occupy entire buildings, e.g. IKEA, Decathlon Innovation Lab.
+2 These refer to standalone stores > 930 sqm (or 10,000 sqft) of GFA.
+3 Facilities below 50 sqm can admit up to 3 persons. This does not include employees.Page 2 of 16
+exercise classes, strenuous individual and group indoor sports and exercise 
+activities, and personal care services where masks are not worn (e.g. facial 
+treatments, make-up services and saunas are not permitted). 
+4.5. Food and drinks are not allowed at work-related events. 
+4.6. Odd and even date entry restrictions on Sundays for popular malls (Lucky 
+Plaza and Peninsula Plaza) will be extended to 13 June 2021.
+Work-related events
+5. Work-related events (both non customer-facing and customer-facing4
+) can be held within 
+the workplace premises and third-party venues. Prevailing guidelines for the respective 
+event venues will apply.
+5.1. Non customer-facing events:
+• Events held in retail establishments are subject to a cap of 50 persons or a 
+lower number, depending on venue capacity and safe distancing
+requirements. 
+• At least one-metre spacing between individuals must be maintained at all 
+times.
+• Food and drinks are not allowed.
+• Prevailing SMMs as indicated in MOM’s Requirements for Safe Management 
+Measures at the workplace 5 continue to apply.
+5.2. Customer-facing events: 
+• Events organised by retail establishments within their own retail premises are 
+subject to the maximum number of individuals that the venue may 
+accommodate after safe distancing measures are adhered to. See 
+occupancy limits in paragraphs 6 and 7.
+• Events organised by retail establishments at third-party venues are subject 
+to a cap of 50 persons or a lower number, depending on venue capacity and 
+safe distancing requirements (excluding service staff).
+• Events organised by external parties at retail establishments (where the 
+premises now functions as a third-party venue) are subject to a cap of 50 
+persons (excluding service staff) or a lower number, depending on venue 
+capacity and safe distancing requirements.
+• Food and drinks are not allowed.
+• Each group must be limited to a maximum of 2 persons, with at least onemetre spacing between groups. 
+• All other prevailing workplace and venue SMMs must be adhered to.
+5.3. Such events are not permitted at public and common areas such as mall atriums, 
+public transport nodes, HDB estates and common corridors.
+4 Non customer-facing events include conferences, seminars, corporate retreats, etc, while customer-facing events 
+include product launches, store opening, marketing/branding events, etc. Social and recreational gatherings (e.g. 
+farewell lunch, team bonding activity) at the workplace are disallowed.
+5 Refer to MOM’s Requirements for Safe Management Measures at the Workplace. Page 3 of 16
+Stipulated occupancy limits
+6. From 16 May through 13 June 2021, the occupancy limit for all malls and large 
+standalone stores > 930 sqm (or 10,000 sqft) of GFA will be one person per 16 sqm of 
+GFA6
+.
+7. All other stores (e.g. shops within malls, at HDB residential blocks, at MRT stations or 
+bus interchanges) are not required to adhere to these occupancy limits as long as at 
+least one-metre distancing between individual customers or groups of customers who 
+are shopping together (up to 2 persons) is maintained.
+Safe Management Measures – Customer-facing operations/Front-of-house
+8. The following measures apply to all customer-facing operations of retail establishments
+and lifestyle-related services. 
+8.1. Safe distancing 
+8.1.1. Retail establishments are to ensure at least one-metre spacing between 
+groups of customers (of up to 2 persons). 
+8.1.2. Retail establishments are to clearly demarcate queue lines for customers 
+at entrances, cashier counters, weighing counters, fitting rooms and must 
+ensure at least one-metre spacing between individual customers in the 
+queue (e.g. using floor markers).
+8.1.3. Employees must manage queues to ensure that safe distancing is 
+observed at all times.
+8.2. Crowd management
+8.2.1. Activities and events at public and common areas such as mall atriums,
+public transport nodes, HDB estates and common corridors are not 
+allowed7
+. Retail establishments should cancel all events and promotions 
+during this period that will generate crowding at their physical premises 
+in a manner which is non-compliant with the Safe Management 
+Measures. 
+8.2.2. Operators of common play areas for children/toddlers/infants in retail 
+stores or malls8 must ensure at least one-metre spacing between groups 
+of customers.
+8.3. Contact tracing 
+8.3.1. The following retail establishments are required to deploy SafeEntry9
+to 
+log the check-in of customers, vendors and visitors to their premises10:
+• Malls and large standalone stores;
+• Large retail stores > 930 sqm or 10,000 sqft;
+• Supermarkets;
+• Personal care services e.g. hairdressers, barbers, spas, beauty and 
+wellness; and
+• Facilities providing basic pet services (that do not function on a dropoff, pick-up basis).
+6 For mixed-use developments, GFA refers to the retail component only.
+7 Such activities may be allowed for supermarkets on a case-by-case basis, if an extension of existing retail space 
+is deemed necessary to ensure safe distancing. Approval must be sought from ESG.
+8 These play areas refer to the facilities provided free-of-charge in the shops or at the malls’ common areas. 
+9 More information on SafeEntry and a full list of places where SafeEntry must be deployed can be found at 
+https://covid.gobusiness.gov.sg/safemanagement/safeentry/
+10 However, all retail establishments and lifestyle-related services must require their employees to do SafeEntry 
+check-in. They must transit to TraceTogether-only SafeEntry when this is implemented from 17 May 2021.Page 4 of 16
+8.3.2. From 17 May 2021, TraceTogether-only SafeEntry will be implemented 
+at the above establishments. Refer to Annex A for details on the 
+SafeEntry implementation.
+8.3.3. From 15 June 2021, retail establishments required to deploy 
+SafeEntry for customers and visitors will need to provide the 
+SafeEntry Gateway11 (SEGW) as an option for SafeEntry check-in.
+SEGW is available as a feature within the SafeEntry (Business) App
+(updated to version 1.1.0 and above) and as a physical standalone device 
+(SEGW Box). These establishments may apply for a free SEGW Box12
+. 
+8.4. Health checks
+8.4.1. All malls, large standalone stores, supermarkets and stores providing 
+personal care and beauty services must conduct temperature 
+screening13
+, employees must check for visible symptoms14 for customers 
+at entrances, and turn away those with fever and/or who appear unwell15
+. 
+8.5. Cleanliness and hygiene
+8.5.1. All employees, customers, delivery personnel and other onsite personnel 
+must put on their masks properly at all times.
+8.5.2. Hand sanitisers should be made available to employees and customers 
+at common touchpoints (e.g. entry/exit doors, cashiers). 
+8.5.3. Product testers and samples for self-application and immediate 
+consumption, e.g. perfume testers, make-up testers and unsealed food 
+samples, are not allowed. Employees must also not apply the product 
+sample directly on customers.
+8.5.4. Retail establishments must ensure frequent cleaning and disinfection of:
+• Common spaces such as counters and display shelves, where 
+customers are served, as well as play areas for 
+children/toddlers/infants;
+• Items such as shopping trolleys/baskets and handrails, which have
+high human contact; and
+• Interactive hardware such as iPads, mall directories, self-checkout 
+kiosks or lift buttons.
+9. Retail establishments should put up clear signages to remind customers to comply with 
+safe management requirements where applicable, and train and deploy service 
+personnel to provide clear communication to customers on SMMs.
+10. Refer to Annex B for other recommended guidelines, and Annex C on guidance for 
+specific trades.
+11 The SEGW enables contactless detection of both the TraceTogether App and Token, and serves as an additional 
+means of SafeEntry check-in that is quicker and more seamless. It also allows users to check if their Token has 
+run out of battery or is not working. 
+12 Refer to go.gov.sg/gateway-overview for how to implement the SEGW and apply for a free SEGW Box. 
+13 Individuals with temperatures above 38 degrees Celsius are considered as having a fever. Supermarkets and 
+stores providing beauty services in malls need not conduct temperature screening and checks on visible symptoms 
+for customers if the mall is already doing so. They should, however, do so if they operate outside the mall hours.
+14 Notable visible symptoms to look out for include: (a) coughing; (b) sneezing; (c) breathlessness; and (d) a runny 
+nose.
+15 Except where the individual is entering the permitted premises to seek medical treatment for a specific symptom.Page 5 of 16
+Safe Management Measures – Workplace premises16
+11. To ensure COVID-safe workplaces, retail establishments should take care of their 
+workers, workplaces and those who may become unwell at their workplaces, as outlined 
+in MOM’s Requirements for Safe Management Measures at the Workplace. 
+Enforcement of measures
+12. Government agencies will be conducting inspections to check on the proper 
+implementation of the SMMs. Under the COVID-19 (Temporary Measures) Act 
+passed in Parliament on 7 April 2020, first-time offenders will face a fine of up to 
+S$10,000, imprisonment of up to six months, or both. For subsequent offences, 
+they may face a fine of up to S$20,000, imprisonment of up to twelve months, or 
+both.
+13. Businesses that do not implement or comply with the government’s SMMs may be 
+ineligible for government grants, loans, tax rebates and other assistance, and may also 
+be subject to temporary closures.
+Annex A – Details of SafeEntry check-in and TraceTogether-only SafeEntry implementation
+Annex B – Other recommended guidelines for customer-facing operations 
+Annex C – Trade-specific Safe Management Measures for Retail Establishments and 
+Lifestyle-Related Services
+Issued by:
+Enterprise Singapore
+Housing & Development Board
+Singapore Tourism Board
+Urban Redevelopment Authority
+Updated as of 18 May 2021
+_________________________________________________________________________
+16 Refers to the retail establishments’ back-of-house operations involving employees, including at offices, 
+warehouses and manufacturing facilities.Page 6 of 16
+ANNEX A
+Details of SafeEntry check-in and TraceTogether-only SafeEntry implementation
+- Before 17 May 2021, SafeEntry check-in can be done by: 
+i) Scanning of the SafeEntry QR code using a QR code scanner on a smartphone;
+ii) Using the SingPass App;
+iii) Using the TraceTogether App;
+iv) Presenting the TraceTogether Token QR code or ID card to the camera/2D scanner 
+linked to SafeEntry (Business) App for scanning; or
+v) Bringing the TraceTogether Token or App close to a SEGW.
+- From 17 May 2021, when TraceTogether-only SafeEntry is implemented at the retail 
+establishments (as listed in paragraph 8.3.1)17, SafeEntry check-in can only be done by: 
+i) Scanning the SafeEntry QR code using the TraceTogether App;
+ii) Presenting the TraceTogether Token QR code to the camera/2D scanner linked to 
+SafeEntry (Business) App for scanning; or 
+iii) Bringing the TraceTogether Token or App close to a SEGW. 
+- To help ease the transition, scanning of barcodes on ID cards will be retained until 31 May 
+2021. Following which, ID cards can only be used under extenuating circumstances. For 
+more information, please refer to the FAQs on www.safeentry.gov.sg.
+- In addition, from 15 June 2021, retail establishments required to deploy SafeEntry 
+for customers and visitors will need to provide the SEGW as an option for SafeEntry 
+check-in. SEGW is available as a feature within the SafeEntry (Business) App (updated 
+to version 1.1.0 and above) and as a physical standalone device (SEGW Box). These 
+establishments may apply for a free SEGW Box18
+. 
+- To prepare for the implementation of TraceTogether-only SafeEntry, the above retail 
+establishments should already accept TraceTogether Tokens as a mode of 
+SafeEntry check-in19. Businesses that accept ID cards for check-in will be able to accept 
+Token for check-in if they are already using: i) A smartphone loaded with the SafeEntry 
+(Business) App setup; ii) a laptop and scanner setup if the scanner can scan barcode and 
+QR code; or iii) a SEGW App or SEGW Box. 
+- For avoidance of doubt, TraceTogether Token check-in and SEGW both refer to the mode 
+of check-in, while TraceTogether-only SafeEntry refers to the overall programme which 
+will permit only TraceTogether modes of check-in (i.e. TraceTogether App or Token). 
+- After TraceTogether-only SafeEntry is implemented from 17 May 2021: 
+i) Large retail stores > 930 sqm (or 10,000 sqft) and supermarkets located within a 
+TraceTogether-only SafeEntry building (e.g. malls) that have the same operating hours 
+as the building will no longer be required to deploy SafeEntry check-in for customers, 
+vendors and visitors. Those located within a TraceTogether-only SafeEntry building
+but with longer operating hours must implement TraceTogether-only SafeEntry outside 
+the building’s operating hours.
+17 All retail establishments must require their employees to do SafeEntry check-in using TraceTogether-only 
+SafeEntry when this is implemented from 17 May 2021. 
+18 Refer to go.gov.sg/gateway-overview for how to implement the SEGW and apply for a free SEGW Box. 
+19 TraceTogether Token check-in is done by premises scanning the QR codes on the TraceTogether Tokens of 
+customers, vendors and visitors. Refer to https://go.gov.sg/token-scanning to find out how to implement Token 
+check-in mode.Page 7 of 16
+ii) Small retail stores (< 930 sqm or 10,000 sqft) that were not required to deploy 
+SafeEntry for customers but have voluntarily done so, should remove their SafeEntry 
+check-ins.Page 8 of 16
+ANNEX B
+Other recommended guidelines for customer-facing operations
+A. Queue management
+- Queues should not cause congestion for neighbouring establishments or at other parts 
+of the mall.
+B. Crowd management
+- Limit groups of customers entering the store to no more than 2 persons. 
+- Do not hold activities that would attract large crowds inside and outside of the retail 
+establishment (e.g. celebrity appearances, aggressive shopping deals, closed-door 
+members sales).
+- A standard operating procedure (SOP) should be put in place to manage long queues 
+and large crowds that could form inside or outside stores (e.g. where popular products
+are displayed) and/or the mall.
+- Encourage the use of self-checkout, and cashless or contactless payment to reduce 
+contact between employees and customers. 
+- Encourage customers to book appointments, for the viewing and testing of products, 
+as well as for services (e.g. consultation, repairs). 
+- Consider placing frequently purchased goods and necessities near the entrance or 
+checkout to facilitate movement and reduce in-store dwell time.
+- Operators should take additional steps to manage the capacity within common play 
+areas for children/toddlers/infants (e.g. deploying an employee to man the area), 
+where practicable.
+C. Health checks
+- All retail stores not mandated to conduct temperature screening and not located within 
+malls are encouraged to do so and check for visible symptoms where practicable.
+D. Cleanliness and hygiene
+- Limit display and testing of products, e.g. stationery, laptops, mobile phones, etc. 
+Employees to conduct product demonstrations if required. Such products should also 
+be sanitised regularly.
+- Where possible, place hand sanitisers in close proximity of store entrances, high-touch 
+surfaces like door handles, as well as common play areas. Encourage customers to 
+sanitise their hands before entering stores and/or handling products on display.
+- Supermarkets and other retail establishments which provide trolleys and baskets to 
+their customers are encouraged to provide disinfectant wipes for customers to clean 
+the handles of such trolleys and baskets. 
+- Products that customers touch frequently such as clothes, footwear, jewellery, 
+accessories and optical products, should be cleaned, sanitised or sterilised frequently, 
+where possible.
+E. Encourage online retail, and “click & collect” for goods and delivery
+- Encourage online retail and click-and-collect from store, to reduce dwell time
+- Where practicable, collection and delivery from the store must be spaced out and 
+contactless. 
+- Take reasonable steps to ensure that delivery personnel observe at least one-metre 
+spacing at all times and do not cluster together. Page 9 of 16
+- Refer to the Advisory for Delivery Businesses for guidelines on delivery requirements.
+F. Use of retail establishments as a third-party venue for work-related events
+- If a retail outlet is used as a third-party event space, as a best practice, only one event 
+should be held in the outlet at a time. If not feasible, each third-party event should be 
+clearly demarcated from the others, as well as from the main consumer shopping area. 
+Each area should be kept completely separate by either a solid partition (at least 1.8-
+metre high, from wall to wall), or a minimum 3-metre spacing demarcated by 
+continuous physical barriers (e.g. plexiglass screens, barricade tape, queue poles). 
+There should be no mixing or intermingling of guests from separate events. Page 10 of 16
+ANNEX C
+Trade-Specific Safe Management Measures for Retail Establishments
+The table below contains the trade-specific Safe Management Measures recommended for the customer-facing operations of retail 
+establishments.
+• Retail establishments are reminded to ensure that their employees and customers wear their masks properly at all times, except 
+when eating or drinking. 
+• The other measures indicated as “MUST” below are also requirements to be implemented, in addition to the measures listed in the main 
+body of the advisory. 
+• The remaining measures should be implemented, where practicable.
+Category Customer-facing operations
+Malls, Standalone stores • Allow tenants to extend queues beyond their premises and mark queue spots outside their units, in order 
+to manage the crowd. However, this should not cause congestion at neighbouring stores or at other 
+parts of the mall.
+• Put in place Standard Operating Procedures (SOPs) to identify hotspots and manage large crowds and 
+long queues both within and outside the malls; these may include re-directing customers to other outlets, 
+breaking the queues into several sections, putting up signs that indicate length of queuing time and 
+implementing queue or appointment management systems20
+. 
+• Food delivery personnel entering the malls for food collection must do their SafeEntry check-in and 
+temperature screening. Malls are encouraged to set up dedicated lanes for these food delivery 
+personnel to enter the malls or allow them to be prioritised in other ways. This is so as to better manage 
+the queues and mall capacity. 
+• Malls are encouraged to designate and clearly demarcate a dining area for their own employees and 
+mobile workers (such as taxi and private hire car drivers, food delivery personnel and SDAs) to take their 
+meals as these individuals may not have any suitable space to do so. Malls must ensure that these 
+individuals consume their meals alone, keep a distance of at least one metre from any other individual 
+and refrain from interacting with anyone. They must also ensure that these individuals wear their masks 
+immediately after eating or drinking. SafeEntry check-in must be deployed at these designated areas.
+20 While implementing the necessary SMMs, malls should ensure that the entrance and exit points remain accessible to those with disabilities.Page 11 of 16
+Supermarkets, 
+Convenience stores, 
+Mini-marts
+• Consider providing dedicated shopping hours for vulnerable groups, such as the elderly, persons with 
+disabilities and pregnant women. 
+• Limit groups of customers entering the store to no more than 2 persons. 
+Supermarkets
+• Put in place Standard Operating Procedures (SOPs) to identify hotspots and manage large crowds and long 
+queues both within and outside the supermarkets; these may include re-directing customers to other outlets, 
+breaking the queues into several sections, putting up signs that indicate length of queuing time and 
+implementing queue or appointment management systems. 
+Books & Stationeries • Minimise browsing time by encouraging customers to read book summaries online and reduce browsing instore. 
+Department stores Department stores
+• Consider establishing separate check-out / collection counters for in-store purchases, redemptions, clickand-collect and home delivery, to minimise queues.
+• Put in place Standard Operating Procedures (SOPs) to identify hotspots and manage large crowds and long 
+queues both within and outside the department stores; these may include re-directing customers to other 
+outlets, breaking the queues into several sections, putting up signs that indicate length of queuing time and 
+implementing queue or appointment management systems. 
+Fashion 
+(Apparel, Shoes, 
+Jewellery, Accessories 
+and Optical wear)
+• Fitting rooms, seats and try-out areas should be spaced at least one metre apart and clearly demarcated.
+Fitting rooms should be disinfected after each use.
+• Discourage the testing and trying of products. Products tried on by customers should be sanitised where 
+possible, e.g. via steaming, cleaning, leaving overnight to air, or other reasonable sanitisation methods. 
+• Implement click-and-collect systems (customers can browse and purchase items online and collect them in 
+stores) to reduce dwell time. 
+• Encourage online purchases by having a flexible return policy.
+Apparel
+• Limit the number of apparels per fitting to minimise dwell time.
+• Employees conducting tailoring and measuring services should wear personal protective equipment, e.g. 
+masks at all times.Page 12 of 16
+Jewellery, Watches, Accessories
+• Establishments offering piercing services MUST ensure that all tools are thoroughly disinfected before and 
+after each use. 
+Optical Wear 
+• Equipment used for eye checks and consultations MUST be sanitised before each new customer is served.
+Beauty Retail • Swatches and individually packed samples, e.g. sachets, travel-sized products and gifts with purchase, may 
+be distributed to customers upon request/completion of purchase.
+Note: For services on makeovers and trial facials, refer to the section on Beauty Services below.
+Pharmacy, 
+Traditional Chinese 
+Medicine (TCM),
+Health Supplement 
+Retail
+• Consider providing dedicated shopping hours for vulnerable groups, such as the elderly, persons with 
+disabilities and pregnant women. 
+Pharmacy
+• Encourage customers to opt for teleconsultation services and to book appointments with pharmacists, where 
+available.
+TCM and Health Supplement Retail
+• Health drink/product sampling MUST NOT be allowed.
+• Allow customers to arrange for pickup and/or delivery for replenishment of medication and/or supplements,
+or opt for teleconsultation services.
+• Consider breaking bulk and pre-packing items, e.g. dried goods and herbs into sealed packets with fixed 
+sizes, to minimise handling of products by customers. Page 13 of 16
+Trade-Specific Safe Management Measures for Lifestyle-Related Services
+The table below contains the trade-specific Safe Management Measures recommended for customer-facing operations of lifestyle-related 
+services.
+• Retail establishments are reminded to ensure that their employees and customers put on their masks properly at all times, 
+except when eating or drinking.
+• The other measures indicated as “MUST” are also requirements to be implemented, on top of measures listed in the main body of the 
+advisory.
+• The remaining measures should be implemented, where practicable.
+Category Customer-facing operations
+Beauty Services 
+(Spa and Wellness, Hair 
+and Make-up, Nail 
+Services, etc.)
+Services and activities that require customers to remove their masks must cease from 16 May through 
+13 June 2021. 
+• All facial treatments/therapies, saunas and make-up services are NOT ALLOWED within this period of 
+tightened measures.
+• For other services, masks MUST be worn by customers and employees at all times.
+• Employees MUST sanitise their hands before and after each customer’s treatment.
+• All operators MUST disinfect all tools and workstations before and after each service. 
+• To avoid overcrowding, customers MUST NOT enter the premises until 10 minutes prior to the start of their 
+appointment session. While within the premises, customers should refrain from mingling with other 
+customers or employees. 
+• All operators MUST NOT serve food and drinks to customers, and should remove shared items such as 
+magazines and newspapers.
+• Employees should wear appropriate protective gear, where practicable. 
+• Encourage appointment bookings, implement queue management and booking system (e.g. digital booking 
+systems or calling customers) to stagger customer appointments.
+• Ensure good ventilation in the premises, where practicable.
+• Assign one therapist to follow-through all treatments with the same customer, where practicable.
+Spa and Wellness
+• All clothing, towels and bedding MUST be changed after use by every customer.Page 14 of 16
+• All equipment MUST be cleaned and sanitised after use by every customer. Allow sufficient time within 
+operating hours for thorough cleaning.
+• Establish a schedule to disinfect common areas and high-touch points regularly (e.g. waiting areas, checkout counters).
+• Encourage customers to sanitise hands before and after every service.
+• When tools are used to apply beauty products on customers, employees should not dip the same tools more 
+than once into beauty product containers without sanitisation. Single-use massage oil, creams and beauty 
+products are encouraged to prevent cross-contamination. 
+Note: Massage Establishments should refer to the Singapore Police Force’s Advisory on Safe Management 
+Measures for Massage Establishment Outlets.
+Hairdressing Services
+• All capes and towels MUST be changed after every service. 
+• All hairdressing equipment, e.g. scissors, combs, brushes, MUST be disinfected and sanitised after use by 
+each customer. 
+Nail Services
+• Tools such as nail files, emery boards, buffers and other disposables MUST be disinfected or replaced after 
+each use.
+• Employees MUST remove their aprons before going for breaks, meals, etc. Aprons MUST be sprayed with 
+disinfectant daily and kept clean.
+• Manicure stations – MUST cover common contact areas, such as hand-rests, with a towel or disposable 
+covers, and replace them after each customer.
+• Pedicure stations – MUST disinfect foot basin and wipe down the pedicure chair after each customer.
+• Use alternate workspace stations to ensure a safe distance of at least one metre between customers.
+Financial Services 
+(Licensed 
+moneylenders, Money 
+changers, Pawnbrokers,
+Remittance services)
+• Encourage customers to sanitise hands before and after handling currency notes and coins.
+Licensed Moneylenders
+• Encourage the use of digital payments and/or online transfers.
+• Encourage customers to book appointments.
+• Consider allowing online submission of documents for credit verification.Page 15 of 16
+Money Changers
+• Encourage employees to practise good hand hygiene, e.g. by using hand sanitiser after handling cash, and 
+avoid touching the face with their hands.
+Pawnbrokers
+• Encourage the use of digital payments and/or online transfers.
+• Encourage customers to book appointments.
+Remittance services
+• Encourage customers to book appointments.
+• Consider implementing e-services (website/app) to facilitate online remittance.
+Commercial Family 
+Entertainment Centres 
+(Indoor Kids’ 
+Playgrounds, 
+Recreation and Leisure 
+Centres)21
+• Operators MUST conduct temperature screening and checks on visible symptoms for customers at 
+entrances, and turn away those with fever and/or who appear unwell. 
+• From 16 May through 13 June 2021, operating capacity MUST be kept to a maximum of one person per 
+16 sqm of usable space or 25% operating capacity, whichever is lower22, instead of one person per 10
+sqm of usable space or 50% operating capacity.
+• Commercial Family Entertainment Centres with > 930 sqm (or 10,000 sqft) of Gross Floor Area can review 
+operating capacity by referring to SMMs for Attractions released by STB, and submit refreshed proposals to 
+enquiry@enterprisesg.gov.sg
+• Please refer to the Assessment Checklist: Requirements for Re-opening Proposal for the list of operational 
+areas to be addressed and measures required for each area.
+• Groups of customers, including those participating in any organised group activities, MUST be limited to 2 or 
+fewer persons, with at least one-metre spacing between tables or groups.
+• To reduce crowding, operators should:
+o Encourage guests/participants to book appointments in advance;
+o Implement a queue management system for entry into premises and between activity stations with 
+clear demarcations for one-metre spacing among customers.
+• Consider having employees and guests/participants wear disposable gowns, gloves and socks within 
+premises, where practicable.
+• Place hand sanitisers near frequently touched surfaces such as grab-bars.
+21 Indoor attractions in touch with STB should continue to liaise with STB on the latest SMM guidelines.
+22 Facilities below 50 sqm can admit up to 3 persons. This does not include employees.Page 16 of 16
+• Regularly clean and disinfect high-touch/interactive equipment and components within the premises. 
+• Ensure that each activity station is manned and supervised by an employee, where practicable.
+Unmanned Massage 
+Chairs, Claw Machines, 
+Photobooths, Kiddy 
+Rides
+• While using these facilities, customers MUST be at least one metre apart.
+• Operators MUST clean and disinfect the massage chairs or machines frequently and between peak periods 
+of usage, and at the end of the day, even if the facilities have self-disinfecting coatings. 
+• Display signages to guide customers on safe distancing measures while using the facilities.
+• Provide hand sanitisers for customers to use before and after their sessions.
+Pet Grooming Refer to Operational Guidelines for Pet Establishments Providing Pet Grooming Services and Animal 
+Physiotherapy and Rehabilitation Services (NPARKS) for more details. 
+Preschools and Early 
+Intervention Centres
+Refer to Phased Reopening of Preschools and Early Intervention Centres from 2 June 2020 (ECDA) for more 
+details.
+Sport and Physical 
+Exercise / Activities 
+(Gyms & Fitness 
+Centres)
+Refer to Sport Singapore’s media releases for updates. 
+Traditional Chinese 
+Medicine (TCM) Clinics
+Refer to General Advisory on Good Clinical Practice and Control for TCM Practice (2020) (MOH / Traditional 
+Chinese Medicine Practitioners Board) for more details.
+Tuition and Enrichment 
+Centres, Childcare 
+Centres
+Refer to Press Releases (MOE) for updates

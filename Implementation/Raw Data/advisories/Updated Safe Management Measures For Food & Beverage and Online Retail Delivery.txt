@@ -1,0 +1,140 @@
+ 
+J OINT ADVISORY
+Page 1 of 4
+MR No.: 034/21
+Updated Safe Management Measures For Food & Beverage and Online Retail Delivery
+1. The Multi-Ministry Taskforce (MTF) announced on 14 May 2021 that safe management 
+measures will be further tightened to reduce the risk of community spread, with effect 
+from 16 May through 13 June 2021. During this period, all Food & Beverage (F&B) 
+establishments can only operate for takeaway and/or delivery. Dining-in is not permitted. 
+In addition, online retail is encouraged for retail establishments to minimise in-store dwell 
+time. These measures are to reduce physical interactions and risk of transmission within 
+the community. 
+2. In line with this, Enterprise Singapore (ESG) and the Land Transport Authority (LTA) are 
+providing operational guidance on safe management measures for businesses providing 
+delivery services for F&B and retail establishments. This includes in-house delivery 
+operations, third-party delivery businesses, as well as taxis and private-hire cars
+(PHCs)1
+, which can continue to make grocery and food deliveries. All such delivery 
+personnel must comply with these measures. The information in this document 
+supersedes that in previous advisories or statements.
+Food Delivery
+3. Companies providing food delivery services must comply with the following: 
+3.1. For delivery personnel
+3.1.1. Wear masks at all times during their work.
+3.1.2. Minimise contact and interactions with others at all times and not cluster 
+together when waiting to collect food items or during breaks (not more 
+than 2 persons in a group). This includes interactions with employees
+from F&B establishments, customers and other delivery personnel. 
+3.1.3. Comply with the one-metre distancing measure with other individuals, 
+including other delivery personnel. If an F&B outlet is overcrowded, they 
+should wait outside the establishment, maintain a safe distance from 
+other delivery personnel or customers, and only enter the outlet when 
+food is ready for collection. 
+3.2. For F&B establishments 
+3.2.1. Opt for contactless pick-up, where food orders are placed by the F&B 
+establishment at designated locations for pick-up by delivery personnel. 
+1
+In March 2020, LTA announced a temporary liberalisation of regulations to allow the use of taxis and PHCs for 
+grocery and food deliveries. This arrangement will continue to be in place until end September 2021.Page 2 of 4
+3.3. For customers
+3.3.1. Opt for contactless receiving of food, where food orders are left by 
+delivery personnel at designated locations (e.g. at the doorstep) for pickup by customers. 
+Online Retail Delivery
+4. Businesses providing online retail delivery services must comply with the following: 
+4.1. For delivery personnel
+4.1.1. Wear masks at all times during their work.
+4.1.2. Minimise contact and interactions with others at all times and not cluster 
+together when waiting to collect items or during breaks (not more than 2 
+persons in a group). This includes interactions with employees from retail 
+establishments, customers and other delivery personnel. 
+4.1.3. Comply with the one-metre distancing measure. They should only enter 
+the retail establishment when the retail item is ready for collection. 
+4.1.4. Leave the premises as soon as bulk items have been put in place.
+4.2. For retail establishments 
+4.2.1. Opt for contactless pick-up, where items are placed at designated 
+locations for pick-up by delivery personnel. 
+4.2.2. For on-site installation, employees responsible for delivery and 
+installation must comply with stringent hygiene and safe management 
+measures, and leave the premises once installation is completed. The 
+number of employees involved in the installation should be kept to no 
+more than 2 workers.
+4.3. For consumers 
+4.3.1. Opt for contactless receiving of items, where items are left by delivery 
+personnel at designated locations (e.g. at the doorstep) for pick-up by 
+customers. 
+Contact Tracing 
+5. Delivery personnel are encouraged to download the TraceTogether mobile app or use a 
+TraceTogether Token2
+to facilitate contact tracing; this will help protect themselves and 
+the community. 
+6. When entering establishments for collection of items, they must do their SafeEntry 
+check-in (via TraceTogether-only SafeEntry) and temperature screening where required. 
+6.1. The following retail establishments are required to deploy SafeEntry:
+• Malls and large standalone stores;
+• Large retail stores > 930 sqm or 10,000 sqft; 
+• Supermarkets; 
+• Personal care services e.g. hairdressers, barbers, spas, beauty and wellness; 
+and
+• Facilities providing basic pet services (that do not function on a drop-off, pickup basis). 
+2 For those using the TraceTogether Token, they are reminded to check the battery level. A green blinking light 
+indicates that the Token is functioning properly whereas a red blinking light indicates that the battery is low. Page 3 of 4
+6.2. Note that i) large retail stores > 930 sqm (or 10,000 sqft) and ii) supermarkets
+located within a TraceTogether-only SafeEntry building (e.g. malls) that have the 
+same operating hours as the building are not required to deploy SafeEntry checkin for customers, vendors and visitors (including delivery personnel). However, 
+those located within a TraceTogether-only SafeEntry building but with longer 
+operating hours must implement TraceTogether-only SafeEntry outside the 
+building’s operating hours.
+6.3. As per current practice, it is not necessary for delivery personnel to do SafeEntry 
+check-in at F&B establishments.
+Cleanliness and hygiene measures
+7. All delivery businesses must comply with the following:
+7.1. Carry out daily temperature screening and health declaration among employees, 
+including delivery personnel before they start work. Those who are unwell cannot 
+work and must go to the doctor.
+7.2. Ensure adoption of cleanliness and hygiene practices and compliance with MOH 
+health advisories. 
+7.3. Delivery personnel who are eating or drinking in the course of their work must 
+wear their masks immediately after doing so. They should dine alone, keep a 
+distance of at least one metre from any other individual and refrain from 
+interacting with other individuals.
+7.4. Equip delivery personnel with hand sanitisers. Personnel must be reminded to 
+wash their hands with soap and water regularly. In the event that they are unable 
+to do so in between deliveries, they should keep their hands clean by using the 
+hand sanitisers.
+7.5. Delivery personnel must frequently clean carriers such as food carriers, food 
+bags and food warmers for food delivery, and other forms of carriers and boxes 
+for retail delivery. The frequency of cleaning and disinfection should be 
+commensurate with increased usage. 
+7.6. Delivery personnel should not place their personal items (e.g. water bottles) in 
+the same box, carrier, or insulated container, which are used to hold food ordered 
+by customers.
+7.7. Businesses can refer to NEA’s guidelines of Interim List of Household Products 
+and Active Ingredients for Disinfection of the COVID-19 Virus for information3
+.
+Businesses will need to ensure appropriate use of disinfectants and ensure they 
+do not come into contact with food. 
+8. Employers, employees and delivery personnel must exercise social responsibility by 
+observing good personal hygiene and monitoring their health conditions. Employees and 
+delivery personnel must reduce physical interactions and not have meals in groups. 
+Those who are unwell, even with mild flu-like symptoms, must see a doctor and stay at 
+home to prevent spreading illness to others. 
+Communications
+9. All companies providing delivery services must provide clear communications and 
+reminders to delivery personnel to ensure compliance with the above safe management 
+and baseline sanitation and hygiene measures.
+3 https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/guidelines/interimlist-of-household-products-and-active-ingredients-for-disinfection-of-covid-19Page 4 of 4
+Enforcement of measures
+10. Government agencies will be stepping up enforcement of these safe management 
+measures. Under the COVID-19 (Temporary Measures) Act passed in Parliament 
+on 7 April 2020, first-time offenders will face a fine of up to S$10,000, imprisonment 
+of up to six months, or both. Subsequent offences may face a fine of up to 
+S$20,000, imprisonment of up to twelve months, or both.
+11. Businesses that do not implement or comply with the government’s safe management 
+advisories may also be ineligible for government grants, loans, tax rebates and other 
+assistance. 
+Issued by:
+Enterprise Singapore
+Land Transport Authority
+Updated as of 17 May 2021
+________________________________________________________________________

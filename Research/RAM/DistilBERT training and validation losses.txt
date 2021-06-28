@@ -1,0 +1,9 @@
+MODEL_NAME,Step,Training Loss,Validation Loss
+DistilBERT_clean_QA, 4426, 1.517900, 1.474164
+DistilBERT_clean_QA, 8852, 1.288484, 1.327450
+DistilBERT_clean_QA,13278, 1.203079, 1.262565
+DistilBERT_clean_QA,17704, 1.194543, 1.219998
+DistilBERT_corrupt_QA, 4426,1.511586, 1.425963
+DistilBERT_corrupt_QA, 8852,1.350551, 1.275368
+DistilBERT_corrupt_QA, 13278,1.275494, 1.219697
+DistilBERT_corrupt_QA, 17704,1.240197, 1.186008

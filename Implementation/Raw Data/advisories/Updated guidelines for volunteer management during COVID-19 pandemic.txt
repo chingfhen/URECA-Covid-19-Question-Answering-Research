@@ -1,0 +1,88 @@
+Updated guidelines for volunteer management during COVID-19 pandemic
+Note: This supersedes the earlier Guidelines for Volunteer Management during COVID-19 Pandemic, dated 7 May 2021.
+
+17 May 2021
+On 14 May 2021, the Multi-Ministry Taskforce (MTF) announced the need to tighten the measures introduced on 8 May 2021 to decisively arrest the increasing number of cases in the community. These measures will take effect from 16 May to 13 June 20211.
+This document provides guidance to individuals and organisations on their volunteering activities in Phase Two (Heightened Alert).
+
+Approach for Phase Two (Heightened Alert)
+Volunteers continue to play a key role in the fight against COVID-19. Their activities include promoting social responsibility, supporting essential services and caring for the vulnerable segments.
+In Phase Two (Heightened Alert), Volunteer Host Organisations (VHOs)2 can continue to enlist volunteers to support essential aid distribution (i.e. supplies necessary for daily sustenance e.g. cooked food and food rations, and urgent financial aid). With the tightening measures, volunteering associated with non-essential services will be suspended.
+For new activities involving essential aid distribution, VHOs should plan the modality to adhere with the prevailing safe management measures and submit to National Council of Social Service (NCSS) the following information of the activities via www.go.gov.sg/distributioncontact at least 3 working days before VHOs commence activities3.
+
+a) Name of VHO
+b) Person-in-charge and contact details
+c) List of staff and volunteers
+d) Number of beneficiaries served
+e) Type of essential aid (e.g. cooked meals, personal care products, vouchers)
+f) Modality and frequency of essential aid distribution
+g) Number of staff/ volunteers needed to distribute essential aid
+Apart from essential aid distribution, VHOs can also respond to other community needs so long as these activities adhere to safe management measures and guidelines for the specific sector4. Plans on essential aid distribution should also be submitted to NCSS.
+VHOs can conduct volunteer activities in groups of two persons with no inter-mingling between groups, and in accordance with safe management measures and sector guidelines. VHOs should also collaborate and coordinate with partners to minimise duplicative efforts, and reduce the movement of staff and volunteers and physical interactions. Avoid general outreach and door-to-door visitation, except for cases in need of urgent aid5.
+Notwithstanding the above, VHOs are strongly encouraged to carry out their volunteering activities remotely or in virtual format wherever possible, e.g. via telephone and video-conference. This is still the best way to keep our volunteers and beneficiaries safe. See Table 1 for a summary of the approach for volunteering activities.
+
+Table 1: Summary of the approach for volunteering activities
+
+Volunteering Activities	
+Approach
+
+a. Volunteering activities supporting
+essential aid distribution
+
+Inform NCSS via this link www.go.gov.sg/distributioncontact, and
+adhere to safe management measures
+b. Volunteering activities to support
+other essential community needs
+
+Conduct volunteer activities, involving groups of up to any two
+persons, with no inter-mingling across groups, and adhere to
+safe management measures
+
+Assess risk and apply safe management measures
+VHOs must conduct volunteer activity risk assessment to assess the format for the activity and deployment of volunteers (See Annex A for an illustration).
+Should face-to-face interactions be necessary for volunteering activities, VHOs must ensure compliance with safe management measures. These measures include:
+
+a. As a default, measures should be put in place to ensure that individuals maintain safe distancing of at least one metre at all times; 
+
+b. Where not feasible or practical to apply one metre safe distancing between individuals, this one metre requirement should be enforced between groups, with each group made up of no more than two persons, and with no mixing between groups.
+
+c. Ensure no cross deployment or social mixing among different groups of volunteers and schedule their volunteer activities, if possible, in fixed teams, to minimise interactions between volunteers and staff. 
+
+d. Ensure staff and volunteers wear a mask at all times. Staff and volunteers should not participate if unwell.
+
+e. Encourage staff and volunteers to observe good personal hygiene, e.g. wash their hands regularly and refrain from touching their face. 
+
+f. Avoid involving children, persons with chronic or underlying conditions, and pregnant women as volunteers. However, these individuals can take on virtual volunteer roles that allow them to operate from home. 
+
+g. Limit the number and physical movement of staff and volunteers involved to minimise the risk of transmission. Implement staggered working and break hours and timings of volunteering sessions to reduce possible congregation at common spaces. Keep a register and track movement using a movement log, in order to facilitate contact tracing, if necessary.
+
+h. Reduce frequency and duration of physical interactions with beneficiaries, e.g. consolidate essential aid to be delivered to reduce the number of physical trips and avoid physical interactions by leaving supplies at the door. If there is a need to check on the beneficiaries, volunteers to maintain at least 1m safe distance. For beneficiaries who are seniors, deliver essential aid to their doorstep as far as possible, so that they do not have to venture out to do collection. 
+
+i. Where it is not feasible to arrange for delivery, designated collection points can also be set up in the vicinity for beneficiaries to collect the essential aid with the necessary precautionary measures to ensure safe management. Buffet set-ups are strictly prohibited. Volunteers must not congregate and should minimise physical interaction with beneficiaries. 
+
+j. Enable contact tracing to be carried out quickly and effectively by using the SafeEntry or TraceTogether-only SafeEntry system to log the check-in and check-out of staff and volunteers from premises. VHOs should ensure that they are ready to implement TraceTogether-only SafeEntry from 17 May 2021. This is a free-for-use service. Visit https://www.safeentry.gov.sg to sign up for SafeEntry NRIC or SafeEntry QR or https://www.tracetogether.gov.sg for TraceTogether-only SafeEntry, and to refer to the user guidelines and FAQs. Upon registration, an onboarding guide with links to all the key resources, digital posters, step-by-step user guides and demo videos will be provided.
+
+k. Require staff and volunteers to download and activate the TraceTogether app. This will help MOH to more quickly identify potential close contacts of COVID-19 patients and reduce disease transmission. Data recorded by TraceTogether is stored on the user’s phone, and is only uploaded when required by MOH, e.g. when the user is suspected to have COVID-19. More information on TraceTogether can be found at https://www.tracetogether.gov.sg.
+
+Ensure safety and well-being of volunteers
+VHOs must continue to ensure the safety and well-being of their volunteers. The volunteers should be informed about the risks, and the measures taken by the VHO to protect them. This can include a briefing on the volunteer activity and precautionary measures, and shall be conducted remotely online, where possible. VHOs are to provide a contact number for volunteers to call in case of emergency or if they feel distressed. VHOs shall also actively seek feedback from volunteers and help to address their concerns, if any.
+Even with safe management measures and gradual resumption of activities, there is a risk that COVID-19 transmission may happen. VHOs must be prepared to help volunteers who have contracted COVID-19 in the line of duty. This can include helping them to apply for relief under The Courage Fund6, and to extend support for their families during this period of time. VHOs should also provide emotional support to any volunteer who needs it, and can tap on the National Care hotline.
+VHOs should also find ways to show their appreciation for their volunteers’ efforts, which can include sharing positive stories through the SG Cares App, providing words of encouragement, and tokens of appreciation.
+
+Sustain engagement of supporters and volunteers
+VHOs are strongly encouraged to continue to communicate and engage their supporters and volunteers during this period even if they are not deployed. This will allow VHOs to activate volunteer resources quickly when the situation improves. Activities by VHOs can include doing the following remotely: 
+
+a. Keep supporters informed of the current happenings and initiatives; 
+b. Share stories to motivate volunteers to step up; 
+c. Encourage creative and safe ways to volunteer, both remotely and on-site; 
+d. Build online communities and social networks; and
+e. Leverage online volunteer opportunities portals, communication tools and learning resources (See Annex B for a list of resources).
+These measures will be revised in tandem with future adjustments in MOH’s guidelines. Depending on the risk assessment and our safe management practices, MCCY will issue further advisories to guide VHOs on the management and deployment of volunteers. We need to remain cautious and stay safe as long as the risk of COVID-19 transmission remains.  
+  
+Working together to emerge stronger
+The community and volunteers shape a caring and united Singapore. With everyone playing their part and supporting each other, we can overcome this pandemic and emerge stronger. 
+
+For enquiries
+For clarifications or enquiries, VHOs can write in to SGCares@mccy.gov.sg.
+Issued by:
+Ministry of Culture, Community and Youth

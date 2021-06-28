@@ -1,0 +1,130 @@
+Requirements for Safe Management Measures at the workplace
+Read the sector-specific guidelines and infographic on Safe Management Measures at the workplace.
+
+From 16 May 2021 to 13 June 2021, the Safe Management Measures for the workplace will be tightened. Previously, up to 50% of employees28 who are able to work from home could be at the workplace at any time. Now, employers must ensure that all employees who are able to work from home do so. Social gatherings at the workplace are disallowed. These measures help lower transmission risks by reducing the levels of interaction at common spaces at or near the workplace, and in public places, including public transport.
+
+Issued on 9 May 2020
+Updated as of 14 May 2021
+
+The tripartite partners (MOM, SNEF, and NTUC) have updated the workplace safe management measures to allow greater flexibility for businesses, while mitigating the risk of widespread COVID-19 transmission. Effective implementation of these measures will help to avoid having to impose tighter measures.
+These requirements are meant for general workplace settings. Specific workplaces like construction worksites and shipyards may have to fulfil additional requirements and should refer to sector-specific requirements1.
+Agencies including MOM, Building and Construction Authority (BCA) and Enterprise Singapore (ESG) will continue to enforce safe management measures and take action against errant employers. This may include issuing stop-work orders and financial penalties.
+
+Safe Management Measures
+To ensure COVID-safe workplaces, employers should take care of:
+Your workers;
+Your workplaces; and
+Those who may become unwell at your workplaces.
+
+A. Take care of your workers
+Provide employees options to work from home.
+From 16 May 2021 to 13 June 2021, employers must exercise heightened vigilance at the workplace.
+Employers must ensure that all employees who are able to work from home do so.
+Employers are encouraged to support as many employees in working from home as possible. This will help to limit the number of employees exposed at the workplace at any point in time, and reduce crowding in common areas, e.g. pantries, toilets, lifts. Having more employees work from home will also help sustain business operations should a case emerge at the workplace.
+Work-from-home measures should enable employees to maintain work-life harmony while continuing to meet business needs. The Tripartite Advisory on mental well-being at workplaces sets out practical guidance on measures that employers can adopt to support their employees’ mental well-being under a variety of work arrangements.
+For employees who are still unable to work from home, employers should review work processes, provide the necessary IT equipment to employees and adopt solutions that enable remote working and online collaboration. Employers are encouraged to leverage technology2 to ensure business continuity and safe management.
+Companies should continue to conduct virtual meetings as far as possible.
+Companies should pay special attention to vulnerable employees3 (e.g. persons who are aged 60 and above, and patients who are immunocompromised4 or have concurrent medical conditions). Employers are encouraged to enable these employees to work-from-home, allow them to travel to/from work at off-peak timings, temporarily redeploy them to another role within the company, or take other appropriate measures to reduce their exposure to infection risk.
+For employees at the workplace, employers must ensure the following precautions are in place:
+Stagger start times and allow flexible workplace hours5: This will spread out staff across time and place, and reduces possible congregation of employees at common spaces at or near the workplace, such as entrances, exits, lobbies, canteens, pantries. It also reduces congestion of people in public places, including public transport.
+Employers are encouraged to stagger the start times for all employees such that at least half of all employees arrive at the workplace at or after 10am, as far as possible. If physical meetings are needed, they can be scheduled after 10 am. These measures would enable more employees to avoid peak-hour travel, especially if employees require the use of public transport. Timings of lunch and other breaks should also be staggered accordingly.
+If it is not feasible to implement staggered start times, flexible workplace hours, and staggered break hours due to operational reasons (e.g. manufacturing production line activities), employers must implement other systemic arrangements to reduce congregation of employees at common spaces6.
+No cross-deployment across worksites7: No employee should work at more than one worksite. If cross-deployment cannot be avoided (e.g. due to the nature of the job), additional safeguards must be taken to minimise the risk of cross infection8.
+Employers should avoid organising work-related events unless critical (e.g. training session): All work-related events9 that proceed must adhere to prevailing workplace Safe Management Measures and are subjected to the following requirements10:
+The number of persons per event must be capped at 50 persons to limit the risk of exposure to infection.
+Attendees must maintain at least 1 metre safe distancing between individual attendees, as per the requirement at the workplace.
+Food and drinks are not allowed at work-related events.
+Work-related events at third-party venues11 will also be subject to any additional premise owners’ safe management policies.
+Social gatherings at the workplace are disallowed: Employees should have their meal breaks at the workplace individually.
+Wear masks at the workplace: Employers must ensure that all onsite personnel, including employees, visitors, suppliers and contractors, wear a mask and other necessary personal protective equipment13 at all times at the workplace, except during activities that require masks to be removed14. Masks will have to be worn immediately after the activity is completed.
+Employers should ensure that they have sufficient masks for all employees, including any need to replace masks more frequently due to workplace conditions15.
+Where possible, employers should consider improving the working environment for employees to enable them to sustain wearing the masks.
+Observe good personal hygiene: Employers should encourage their employees to observe good personal hygiene, e.g. wash their hands regularly and refrain from touching their face.
+
+B. Take care of the workplace
+Control access at the workplace to only essential employees and authorised visitors. Employers must use the SafeEntry visitor management system to record the entry of all personnel (including employees and visitors) entering the workplace16. All employees and visitors should check-in and check-out of workplaces using SafeEntry (with their TraceTogether app or token) to help MOH in establishing potential transmission chains.
+Personnel who are unwell (including having a fever upon temperature screening) must be refused entry to the workplace.
+Visitors who are unwell should be asked to reschedule their appointments to another day when they are well, or be served via alternate means.17
+Employers must ensure that employees and visitors must declare via SafeEntry or other means18 (e.g. electronic or hard copy records), before being allowed to enter premises, that they:
+Are currently not under a Quarantine Order, Stay-Home Notice;
+Have not had close contact with a confirmed COVID-19 case in the past 14 days19; and
+Do not have any fever or flu-like symptoms.
+Adhere to travel advisories: Employers should ensure that their employees adhere to MOH’s prevailing travel advisory.
+Where physical interaction cannot be avoided, precautions should be taken to ensure clear physical spacing of at least 1 metre through physical means20 and demarcation of safe physical distances (at least 1m apart) using visual indicators, where possible, in the following situations21:
+Between all persons at meeting rooms, work areas, and workstations; and
+At all times during work-related events held at the workplace.
+Employers who are service buyers should also require their suppliers / contractors to implement similar safe distancing measures, so that operations and business interactions with these suppliers / contractors are kept safe. Where physical interactions are still necessary, e.g. delivery of goods, employers must adopt precautionary measures such as scheduling delivery times by different suppliers in a staggered manner. The durations of such transactions should be kept as short as possible.
+Minimise need for physical touchpoints: Employers should reduce the occurrences of, or need for common physical touchpoints in the workplace where possible (e.g. by deploying contactless access controls). Where physical contact is needed, additional safeguards must be taken to minimise the risk of cross infection (e.g. frequent disinfection of touchpoints).
+Step up cleaning of workplace premises through the following:
+Employers must ensure regular cleaning of common spaces, particularly areas with high human contact22. Where physical meetings are held or meals are taken at common spaces such as pantries or canteens, employers must clean and disinfect tables between each meeting or seating.
+Employers must ensure that machinery and equipment shared between different employees across different shifts or alternate teams are cleaned and disinfected before changing hands. The sanitation and hygiene advisories23 disseminated by the National Environmental Agency (NEA) must be adhered to.
+Provide cleaning and disinfecting agents at the following areas:
+Cleaning agents (e.g. liquid soap, toilet paper) must be available at all toilets and hand-wash stations.
+Disinfecting agents (e.g. hand sanitisers) must be installed at all human traffic stoppage points within the workplace, such as entrances, reception areas, security booths and lift lobbies.
+Disinfecting agents (e.g. disinfectant sprays, paper towels and wipes) must be provided at meeting rooms and other common spaces such as pantries or canteens.
+C. Take care of workers who become unwell at the workplace
+Ensure regular checks for temperature and respiratory symptoms24 for all onsite employees and visitors, twice daily or where relevant. Employers must be able to demonstrate that these checks are in place during inspections.
+Record proximity data on phones: To help MOH to more quickly identify potential close contacts of COVID-19 patients and reduce disease transmission, employers should encourage all employees to download and activate the TraceTogether app25.
+Actively monitor unwell employees and guard against incipient outbreaks:
+Employees at the workplace who have visited a clinic must submit to their employers records of their MCs and diagnoses provided (only for COVID-19-related symptoms, including acute respiratory infections), and if they were tested for COVID-19 and the results of their tests.
+Employers must take preventive action to guard against incipient outbreaks at the workplace, such as advising employees who are unwell to stay home and consult a doctor rather than going to the workplace, requiring these employees on MCs to closely monitor their health before returning to the workplace and requiring these employees’ close contacts at the workplace to monitor their health more regularly.
+Where possible, employers should ensure that each employee visits only one clinic for check-ups if unwell. Otherwise, employees should inform the clinic of all recent doctor visits over past 14 days for any symptoms that may be related to COVID-1926.
+Manage unwell cases: An evacuation plan must be prepared for unwell or suspected cases, as well as for other onsite personnel.
+Any employee who is feeling unwell or showing symptoms of illness should report to his employer, leave the workplace and consult a doctor immediately, even if symptoms may appear mild. Employers must track and record these cases as part of Safe Management Measures.
+For incapacitated or unconscious individuals, employers must clear the area of other personnel and administer aid immediately. Employers should call 995 for an emergency ambulance to ferry them to the nearest hospital.
+Manage confirmed cases: A follow-up plan must be put in place in the event of a confirmed case. Upon being notified of a confirmed case, employers must adopt the following precautionary measures:
+Immediately vacate and cordon-off the immediate section of the workplace premises where the confirmed case worked. There is no need to vacate the building or the whole floor if there had been no sustained and close contact with the confirmed case; and
+Carry out a thorough cleaning and disinfecting all relevant on-site areas and assets that were exposed to confirmed cases, in accordance to NEA guidelines.
+For worksites with confirmed cases, businesses could be suspended if there are public health grounds.
+
+D. Implement a system of Safe Management Measures
+Employers must establish a system to implement the above Safe Management Measures to provide a safe working environment and minimise risks of COVID-19 outbreaks. These measures must be implemented in a sustainable manner for as long as necessary.
+Implement a detailed monitoring plan to ensure compliance with Safe Management Measures and timely resolution of outstanding issues27.
+Appoint Safe Management Officer(s) (“SMO”) to assist in the implementation, coordination and monitoring of the system of Safe Management Measures at the workplace. For unionised companies, union leaders or WSH officers could be appointed as SMOs. Employers must provide appointed SMOs with adequate instruction, information and supervision as is necessary for them to fulfil their required duties. SMOs are strongly encouraged to receive training. The duties of the Officer(s) include:
+To coordinate implementation of Safe Management Measures, including identifying relevant risks, recommending and assisting in implementing measures to mitigate the risks, and communicating the measures to all personnel working in the workplace;
+To conduct inspections and checks, to ensure compliance at all times. Any non-compliance found during the inspections should be reported and documented;
+To remedy non-compliance found during the inspections and checks through immediate action; and
+To keep records of inspections, checks and correction actions, to be made available upon request by a Government Inspector.
+Employers must ensure that the measures above are in place, communicated and explained to employees prior to resuming work onsite (refer to Annex B for a checklist of Safe Management Measures that should be in place for resumption of business activities). Signs should also be put up to remind employees and visitors to observe all measures in place. Unionised companies should engage their unions on such arrangements.
+Employees should also do their part in adhering to the measures to create a safe working environment. Those who wish to report breaches or poor practices can do so via SnapSAFE, an app that allows the reporting of workplace safety and health issues to MOM.
+You may refer to the frequently asked questions on Safe Management Measures at the workplace after Circuit Breaker period. For further queries, please contact:
+
+Ministry of Manpower
+Online enquiry
+www.mom.gov.sg
+
+Ministry of Health
+MOH Emergency Line 1800 333 9999
+Online enquiry
+www.moh.gov.sg
+
+
+FOOTNOTE
+For example, refer to BCA for construction, ESG for F&B and retail, MTI for marine and process sectors. More info about the various sector-specific requirements.
+Annex A provides a list of resources such as technology solutions and grants available to assist companies.
+https://www.moh.gov.sg/docs/librariesprovider5/advisories/advisory-on-vulnerable-group-(moh).pdf
+Those who have a compromised or impaired immune system.
+Workplace hours here refers to the hours spent at the physical workplace.
+E.g. arrange for different groups of employees to arrive / depart through different entrances / exits.
+This will not apply to industries / companies that need to do so due to the nature of their work. Such companies will be required to demonstrate that cross-deployment or interaction between employees is critical for business operations, when requested by MOM or their sector agencies.
+E.g. systems are in place to ensure no direct contact between the cross-deployed personnel.
+I.e. events not organised primarily for social interaction. Work-related events that are allowed to proceed are those which primarily involve employees or stakeholders, such as conferences / seminars, corporate retreats, staff training sessions, Annual General Meetings and Extraordinary General Meetings.
+This is separate and distinct from MICE events approved by the Singapore Tourism Board (STB).
+Work-related events are allowed to resume at third-party venues, but are subject to any additional premise owners’ safe management policies.
+<nil>
+Masks for general office workplaces; for other workplace settings, please refer to sector-specific guidelines.
+The requirement for masks to be worn can be waived when carrying out, in the course of employment, an activity that requires that no mask may be worn, or that it must be removed in order that other equipment may be worn or used, to carry out that activity, or when riding a motorcycle in the course of employment or otherwise.
+E.g. humid workplaces, call centres where the nature of the work may necessitate frequent mask changing.
+For the full list of workplaces where SafeEntry must be deployed, please refer to https://www.safeentry.gov.sg/deployment.
+Such as tele-conferencing.
+Not applicable for individuals seeking treatment at a medical facility.
+Not applicable to COVID-19 frontline workers or recovered individuals within 3 months of their first positive PCR COVID-19 test.
+E.g. barriers between workstations, relocation of workstations, meeting room seats.
+The monitoring and enforcement of safe distancing could be aided by appropriate technology (e.g. CCTVs, video analytics) where possible.
+Such as counters where customers are served, rooms where visitors are hosted, as well as general public access areas such as lifts, pantries, toilets, and bin areas (including bin centres where necessary).
+https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines
+Including coughing, sneezing, breathlessness, a runny nose, or loss of sense of smell.
+Data recorded by TraceTogether is stored on the user’s device, and is shared with MOH for contact-tracing purposes when the user is suspected or confirmed to have COVID-19.
+Including but not limited to typical symptoms such as fever, cough and shortness of breath.
+E.g. follow-up on non-compliance and efforts to mitigate risks.
+Employers should note that interns, part-time staff, etc. who are under a contract of service are also employees.

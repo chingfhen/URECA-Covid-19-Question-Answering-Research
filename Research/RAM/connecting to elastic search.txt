@@ -1,0 +1,5 @@
+
+
+
+cd "C:\Users\tanch\Downloads\elasticsearch-7.13.0-windows-x86_64\elasticsearch-7.13.0"
+.\bin\elasticsearch.bat

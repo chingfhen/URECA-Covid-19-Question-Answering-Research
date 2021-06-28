@@ -1,0 +1,135 @@
+Phase Two (Heightened Alert) - Tighter measures for religious activities
+This document provides the conditions under which religious organisations (ROs) are permitted to carry out activities in places of worship during Phase Two (Heightened Alert) from 16 May through 13 June 2021.
+
+15 May 2021
+On 14 May 2021, the Multi-Ministry Taskforce announced tighter measures to be put in place from 16 May through 13 June 2021 to mitigate the risk of further community spread of COVID-19. This document provides the conditions under which religious organisations (ROs) are permitted to carry out activities in places of worship during this period of Phase Two (Heightened Alert).
+
+Phase Two (Heightened Alert)
+Under Phase Three (Heightened Alert) that began on 8 May 2021, enhanced precautionary measures were imposed on religious activities, namely a decrease in capacity for congregational and other worship services from 250 persons to 100 persons, without pre-event testing (PET), and no congregational singing.
+Under Phase Two (Heightened Alert), from 16 May through 13 June 2021, tighter measures will apply to religious activities. To reduce risks of community transmission, indoor “mask-off” activities will cease during this period. We will also further reduce the current permissible group size from up to 5 persons, to up to 2 persons. The new measures are as follows:
+
+a. Congregational and other worship services will be limited to 100 persons (decrease from 250 persons today)
+
+i. Up to 50 persons without PET; 
+ii. Up to 100 persons with PET for all attendees;
+
+b. No singing and playing of wind/brass instruments for live performance elements;
+
+c. Suspension of all other non-congregational religious activities, except for religious rites; and 
+
+d. Reduced capacity for marriage solemnizations as well as wakes, funerals and post-funeral rites.
+  
+Annex A summarises the key changes for ROs going from Phase Three (Heightened Alert) to Phase Two (Heightened Alert).
+
+Worship Services
+From 16 May 2021, ROs may conduct congregational and other worship services at places of worship, with up to 50 persons at a time without PET, subject to safe management measures and the safe capacity of the premises. Religious and supporting workers should be kept to a minimum.
+Worshippers can participate in worship services in groups of no more than 2 persons (decrease from 5 persons today), in line with prevailing national requirements.
+ROs can conduct congregational and other worship services, for more than 50 persons and up to 100 persons at a time, only if there is PET for all worshippers1 as follows: 
+
+a. ROs must ensure that all worshippers [except where paragraph (b) below applies] obtain a negative COVID-19 test result before they may be admitted into the venue where the service is being held.2
+
+i. The test must be an MOH-approved COVID-19 test (either an Antigen Rapid Test (ART) or Polymerase Chain Reaction (PCR) test) administered by an approved test provider.3
+
+ii. The test results are only valid for 24 hours from the time an individual registers at the testing premises to take the test. The RO must ensure that the result of the test is valid until the end of the worshipper’s participation in the worship service.
+
+iii. The worshipper must be able to produce proof of the test result, which are either (i) Check-in Successful banner (displayed on the SafeEntry (Business) application upon scanning with TraceTogether App/Token), (ii) COVID-19 Test Result Notice (ART), (iii) COVID-19 Test Result Notice (PCR), or (iv) Patient Risk Profile Portal (PRPP) ART Result Slip.
+
+b. The requirements for PET in paragraph 6(a) above do not apply to worshippers who have been vaccinated4 or produce an exemption notice5. Before being admitted into the venue where the service is being held, the worshipper must produce valid documentation of either their vaccination or exemption notice which must remain valid until the end of the worshipper’s participation in the service.
+
+c. Where PET is required for a service, ROs must prominently display signs at each point of entry and exit (including emergency exit) to the venue where the service is being held, to indicate:
+
+i. The space is a restricted place6, and the duration for which it will be a restricted place (i.e. the duration of the service). ROs must clearly mark the boundaries of the restricted place (e.g. though fencing, rope, signs, walls, partition, screen).
+
+ii. That entry and remaining within the restricted place is allowed only to individuals with a cleared status (i.e. have a valid negative COVID-19 test result notice, valid documentation of vaccination or exemption notice).
+
+d. ROs are to highlight to worshippers attending services for more than 50 persons and up to 100 persons that they will be denied entry into the venue where the service is being held if they do not produce the relevant negative COVID-19 test result notice, vaccination notice, or exemption notice, with the necessary validity period.
+For congregational and other worship services exceeding 50 persons and up to 100 persons with PET, worshippers have to be segregated into zones holding no more than 50 persons each. 
+
+a. As there should be no mingling of individuals across zones, each zone must be completely separated from another by either a physical solid partition (at least 1.8m high if not floor-to-ceiling, from wall-to-wall); or at least 3m physical spacing demarcated by continuous physical barriers (e.g. rope barrier).
+
+b. There must either be a separate ingress/egress for each zone or staggered entrance/exit timings so that worshippers from different zones do not mix with one another during entry/exit.
+
+c. ROs must also take reasonable steps to ensure that worshippers do not cross the physical barrier (where applicable) or enter another zone that they are not assigned to.
+ROs should continue to observe the following safe management measures for worship services (including services conducted with PET):
+
+a. Keep worship services to as short a duration as possible. There must be no reception or mingling between worshippers, before, during or after each worship service.  
+
+b. All persons present (except children below 6 years of age) must wear a face mask at all times.7 Face shields are not permitted as substitutes for face masks. Young children are still strongly encouraged to use a mask, especially when they are in a group setting (e.g. attending worship service).  
+
+c. Live performance elements are permitted during the worship service at places of worship, with the following safe management measures (see Annex B for details). 
+
+i. A maximum of 30 persons are allowed to be involved in/support the conduct of the worship service. This includes persons on-stage, backstage or off-stage. 
+
+ii. Unmasking will not be permitted. To ensure the safety of worshippers, singing or playing of wind/brass instruments will also not be permitted. 
+
+iii. Singing (with or without the mask on) is not allowed. 
+
+iv. Masks must be worn when speaking during congregational and other worship services. A face shield is not a permitted substitute for a proper mask. 
+
+v. There must be at least a 3-metre setback between persons involved in the conduct of live performance elements and worshippers.
+
+vi. Minimise the duration of live performance elements for congregational and other worship services. 
+
+d. There should be no sharing of prayer and other common items (e.g. holy books, passing of offertory baskets, prayer mats) as this increases the risk of COVID-19 transmission. Worshippers are to bring along their personal prayer items instead, where required. 
+
+e. Places of worship with reduced air circulation (e.g. enclosed prayer spaces, air-conditioned worship hall) should, where possible, open doors and windows to naturally ventilate the space after each use.
+
+Marriage Solemnizations
+From 16 May 2021, ROs may continue to use places of worship to conduct marriage solemnizations where: 
+
+a. Solemnizations involving up to 50 attendees: PET will not be required.
+
+b. Solemnizations involving between 51 - 100 attendees: PET will be required for all attendees.8
+
+c. These activities are subject to safe management measures and the safe capacity of the premises, and exclude the solemnizer and religious and supporting workers, whose numbers should be kept to a minimum.   
+
+d. If the total number of attendees is more than 50 (including the wedding couple), they must still be segregated into zones of up to 50 persons each (see paragraph 7 for zoning requirements). An individual attending the solemnization must remain within his or her respective assigned zone and must not enter an unassigned zone. 
+
+e. Attendees must maintain a 1-metre safe distance between groups except a core “wedding party”9, which is allowed to comprise up to 20 persons (including the couple and their two witnesses). There should be no intermingling or mixing between groups nor between the “wedding party” and these other groups. 
+
+f. There must not be any reception with food and drinks, or wedding celebrations that are not essential religious rites.
+
+g. ROs must also comply with prevailing safe management measures stipulated on the Ministry of Trade and Industry (MTI)’s website10. 
+Although solemnizations at places of worship11 may continue to involve live instrumental music (non-wind/brass) with the necessary safe management measures in place (see Annex C), we strongly encourage this to be suspended or the duration be shortened during this period of heightened alert. Persons involved in/supporting the live instrumental music segment should be kept to the minimum. No other performances (e.g. singing, dance, variety act) are allowed.
+ROs are strongly encouraged to continue offering video link solemnizations as an option for couples.
+
+Funerals
+From 16 May 2021, funerals, wakes, installation of niches and post-funeral rites12 at places of worship can involve not more than 20 attendees (decrease from 30 today) at any one time, including the day of burial/cremation, and in groups of no more than 2 persons (excluding religious and supporting workers, whose numbers should be kept to a minimum), subject to safe management measures and the safe capacity of the premises. 
+
+a. There must not be any reception with food and drinks. 
+
+b. ROs must also comply with prevailing safe management measures listed on MTI’s website13. 
+Funerary-related activities at places of worship14 may continue to involve live instrumental music (non-wind/brass) with the necessary safe management measures in place (see Annex C). Persons involved in/supporting the live instrumental music segment should be kept to the minimum. No other performances (e.g. singing, dance, variety act) are allowed.
+Visits to columbaria at places of worship should be kept as short as possible, with no mingling between groups of no more than 2 persons (decrease from 5 persons today). 
+
+Other Religious Activities
+From 16 May 2021, ROs may continue to use places of worship to conduct religious rites, in groups of no more than 2 persons (decrease from 5 persons today) and maintain safe distancing. Religious and supporting workers involved in the conduct of these rites should be kept to a minimum.
+All other religious activities (e.g. religious classes for adults and children) will be suspended.
+Given the current need to minimise the risk of COVID-19 transmission, ROs are strongly encouraged to conduct these activities via remote means or defer them until the COVID-19 situation improves.
+
+Recording and Broadcast of Religious Services and Prayers
+ROs are encouraged to continue supporting the religious needs of their communities via remote means such as recording and broadcast of religious services and prayers. From 16 May 2021, ROs can have up to 15 persons on-location for these productions, of which up to 10 persons can be unmasked at any one time, with no more than 2 persons unmasked for singing and/or playing wind/brass instruments. Those singing and/or playing wind/brass instruments must maintain 2 metres between all other individuals. All other persons present must maintain a 1-metre separation. The time spent on-location for this activity should be kept as short as possible. The production team must also put in place safe management measures, including no-cross deployment between locations, and thorough cleaning of technical equipment. There shall be no audience.
+ROs who wish to use their premises for digital recording or broadcast are required to notify through the CPRO website of (i) the planned dates of the digital productions; (ii) venue; and (iii) confirmation of adherence to the performers and crew limits, before conducting the digital productions.
+
+Safe capacity in the place of worship
+All the permitted religious activities in paragraphs 9 to 19 (i.e. excluding congregational and other worship services) can continue to take place concurrently, subject to safe management measures, and stipulated capacity limits for these activities – and only if these activities can be conducted safely at separate locations within the place of worship, with no interaction between worshippers while entering, exiting or while in the premises.
+ROs are strongly encouraged to support the religious needs of their communities through remote means, as far as possible, in line with national guidelines to reduce social interactions, and thus minimise risk of COVID-19 transmission.
+
+a. ROs should consider reducing other concurrent activities when congregational and other worship services are ongoing, so that there is a smaller total number of people on the premises at any one time, which will help to minimise the risk of large clusters from forming.
+
+Deployment of manpower
+ROs should primarily engage their religious workers and staff to support the permitted religious activities but can deploy volunteers to support if necessary. The number of personnel involved in conducting each permitted activity should be kept to a minimum.
+From 16 May 2021, telecommuting will be the default for workplaces, so as to minimise the number of on-site religious workers and staff. The religious workers and administrative staff should comply with prevailing workplace safe management measures stipulated by the Ministry of Manpower (MOM).15 Restrictions against cross-deployment16 across worksites remain in place. 
+
+TraceTogether and SafeEntry
+TraceTogether-only SafeEntry, where the TraceTogether App or Token is required for SafeEntry check-ins, will be required at all venues that are required to implement SafeEntry from 17 May 202117. ROs must make the necessary preparations to accept check-ins by the TraceTogether App or Token. ROs can refer to www.safeentry.gov.sg for FAQs, or more information on how to set up TraceTogether-only SafeEntry for their premises.
+SafeEntry Gateway (SEGW) will be progressively introduced as an additional mode of SafeEntry check-in to provide quicker and more seamless check-in using the TraceTogether App or Token. Existing modes of SafeEntry check-in will remain in place. Since 19 Apr 2021, ROs conducting congregational and other worship services for more than 100 persons have been required to deploy the SafeEntry Gateway at their main entrances as an additional check-in mode. ROs conducting congregational and other worship services for 100 persons or less will also be required to deploy the SEGW at their main entrances by 15 June 2021. ROs may deploy either the physical SEGW Box or use the SEGW function found in the latest version of the SafeEntry (Business) App based on their needs. [Refer to https://go.gov.sg/gateway-overview for more information.]. 
+
+Mandatory submission of Safe Management Plans
+ROs must acknowledge through the CPRO website the new conditions for religious activities imposed from 16 May through 13 June 2021 before commencing the activities. ROs that have not submitted their Safe Management Plans (SMPs) previously for Phase 3 will need to submit their plans, at least 2 days before commencing any activities outlined above. The detailed requirements and format for submitting these SMPs can be found at www.cpro.gov.sg.
+MCCY reserves the right to suspend a RO’s activities if there are gaps in the SMP submitted and until the necessary rectifications are made. ROs are responsible for the implementation of safe management measures and action could be taken for lapses and breaches. Should there be any confirmed COVID-19 cases linked to a RO’s premises or place of worship, the premises may be closed for a period of time as determined by the authorities.
+
+Working together to make Singapore COVID-safe
+The tightening of measures for religious activities reflect the seriousness of the current COVID-19 situation. We will have to remain vigilant and regularly refine our safe management measures in order to minimise the risk of COVID-19 transmission. MCCY will continue to work with our ROs to ensure a COVID-19 safe environment for religious activities.
+Issued by:
+Ministry of Culture, Community and Youth
