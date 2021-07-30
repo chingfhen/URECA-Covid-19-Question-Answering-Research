@@ -1,7 +1,7 @@
 # URECA-CovidQA-Research
-This repository is about my URECA research. Essentially, I built a Covid-19 Question Answering System. Covid-19 rules and regulations in Singapore are continually being adapted to the severity of the viral situation. These rules and regulations come in the form of unstructured text and are very extensive. It is crucial for this information to be easily accessible and adhered to by the public. Thus, in this study, we built a question answering system that answers covid-19 questions relating to these rules and regulations. I also compared the performances of 7 BERT architectures namely albert-base-v1, bert-base-cased, bert-base-uncased, distilbert-base-uncased, distilroberta-base, google/electra-base-discriminator, roberta-base. For an an overview, you may look at my research paper under the name, Covid-19 Question Answering System FIN. 
-
-Lastly, below are some paths to notebooks that you may interested:
+This repository documents a URECA Question Answering research: https://github.com/chingfhen/URECA-Covid-19-Question-Answering-Research/blob/main/Covid-19%20Question%20Answering%20System%20FIN.pdf
+  1. built a Covid-19 Question Answering System that answers Covid-19 Questions 
+  2. compared the performances of 7 BERT architectures namely albert-base-v1, bert-base-cased, bert-base-uncased, distilbert-base-uncased, distilroberta-base, google/electra-base-discriminator, roberta-base over varying max_length
 
   - Implementation of Covid19 QA system: Implemetation->notebooks->Covid19 QA System
 
@@ -14,3 +14,6 @@ Lastly, below are some paths to notebooks that you may interested:
   - Comparing reader models: Research->notebooks->Visualization - Model performances over varied max_length
 
   - Fine tuning reader models on SQuAD 1.1: Research->notebooks->Fine tuning
+
+
+Skills and libraries learnt: Building Question Answering Systems, HuggingFace, Haystack, Fine-tuning question answering models, BERT architecture
